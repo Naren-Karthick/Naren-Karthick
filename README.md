@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Naren-Karthick
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python, html,css
-- 📖 I'm currently studying in Class 12
+- 🌱 I’m currently learning python,C,C++,Java
+- 📖 I'm currently pursuing BTech IT
 
 <!---
 Naren-Karthick/Naren-Karthick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
